@@ -21,7 +21,7 @@ mkdir AutoCryptCount\nnUNet_raw
 mkdir AutoCryptCount\nnUNet_preprocessed
 mkdir AutoCryptCount\nnUNet_results
 ```
-2. Download the trained model 'Dataset505_CryptModelv5' and place it into 'AutoCryptCount\nnUNet_results\'.
+2. Download the trained model 'Dataset505_CryptModelv5' at https://github.com/AlexanderBaikalov/auto-crypt-count-public/releases/download/v1/Dataset505_CryptModelv5.zip, unzip it, and place it into 'AutoCryptCount\nnUNet_results\'.
 
 ### Step 2: Setup Python package in Public Folder
 1. Download the Python Installer (3.12.8 in my case but newer versions should also be fine): https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe
