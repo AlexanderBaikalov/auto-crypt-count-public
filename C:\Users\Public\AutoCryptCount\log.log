@@ -1,0 +1,41 @@
+2025-04-08 18:55:55|INFO|root| -------------------- NEW LOG --------------------
+2025-04-08 18:55:55|INFO|root| Welcome to auto-crypt-count!
+2025-04-08 18:56:21|INFO|root| -------------------- NEW LOG --------------------
+2025-04-08 18:56:21|INFO|root| Welcome to auto-crypt-count!
+2025-04-08 18:56:21|INFO|root| Log instantiated from user arbaikalov at C:\Users\Public\AutoCryptCount\log.log
+2025-04-08 18:56:21|INFO|root| Parameters module loaded with parameter values:
+2025-04-08 18:56:21|INFO|root|      CANVAS_COLOR = black
+2025-04-08 18:56:21|INFO|root|      CRYPT_COLOR = #89FC00
+2025-04-08 18:56:21|INFO|root|      DEFECT_THRESHOLD = 10
+2025-04-08 18:56:21|INFO|root|      ENV_VARS = {'nnUNet_raw': 'C:\\Users\\Public\\AutoCryptCount\\nnUNet_raw', 'nnUNet_preprocessed': 'C:\\Users\\Public\\AutoCryptCount\\nnUNet_preprocessed', 'nnUNet_results': 'C:\\Users\\Public\\AutoCryptCount\\nnUNet_results'}
+2025-04-08 18:56:21|INFO|root|      FIRST_CRYPT_COLOR = #00ffc1
+2025-04-08 18:56:21|INFO|root|      FORCE_OBJECTIVE = 20.0
+2025-04-08 18:56:21|INFO|root|      GRID_PATTERN = staircase
+2025-04-08 18:56:21|INFO|root|      LOG_FP = C:\Users\Public\AutoCryptCount\log.log
+2025-04-08 18:56:21|INFO|root|      MAC_OS = True
+2025-04-08 18:56:21|INFO|root|      MIN_CRYPT_SIZE = 2000
+2025-04-08 18:56:21|INFO|root|      NNUNET_DATASET = 505
+2025-04-08 18:56:21|INFO|root|      NORM_HNE = True
+2025-04-08 18:56:21|INFO|root|      PROBLEM_COORD_RADIUS = 100
+2025-04-08 18:56:21|INFO|root|      PROBLEM_CRYPT_COLOR = (255, 0, 0, 128)
+2025-04-08 18:56:21|INFO|root|      SAVE_RESOLUTION = full
+2025-04-08 18:56:21|INFO|root|      SIZE_RANGE_UM2 = (1000000.0, 3000000.0)
+2025-04-08 18:56:21|INFO|root|      THUMBNAIL_DOWNSAMPLE = 16
+2025-04-08 18:56:21|INFO|root|      TISSUE_INTENSITY_THRESHOLD = 230
+2025-04-08 18:56:21|INFO|root|      TOOLBAR_COLOR = #e3d6b8
+2025-04-08 18:56:21|INFO|root|      VERSION = 4.0
+2025-04-08 18:56:21|INFO|src.gui.control_gui| Initializing Control GUI.
+2025-04-08 18:56:21|INFO|src.gui.control_gui| Checking import for function: Prepare trial image data.
+2025-04-08 18:56:21|WARNING|src.gui.control_gui| Imports not possible. Disabling checkbox widget.
+2025-04-08 18:56:21|INFO|src.gui.control_gui| Checking import for function: Run AI predictions.
+2025-04-08 18:56:21|WARNING|src.gui.control_gui| Imports not possible. Disabling checkbox widget.
+2025-04-08 18:56:21|INFO|src.gui.control_gui| Checking import for function: Count crypts on predictions.
+2025-04-08 18:56:23|INFO|src.gui.control_gui| Check successful.
+2025-04-08 18:56:23|INFO|src.gui.control_gui| Checking import for function: Open Crypt GUI.
+2025-04-08 18:56:23|INFO|src.gui.control_gui| Check successful.
+2025-04-08 18:56:33|WARNING|root| ##########################################
+2025-04-08 18:56:33|WARNING|root| ###   Summary of Warnings and Errors   ###
+2025-04-08 18:56:33|WARNING|root| ##########################################
+2025-04-08 18:56:21|WARNING|src.gui.control_gui| Imports not possible. Disabling checkbox widget.
+2025-04-08 18:56:21|WARNING|src.gui.control_gui| Imports not possible. Disabling checkbox widget.
+2025-04-08 18:56:33|INFO|root| End of task. Logging complete.

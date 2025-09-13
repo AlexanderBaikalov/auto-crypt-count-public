@@ -1,0 +1,4 @@
+.venv/
+.cryptGUI_venv/
+*.pyc
+__pycache__/
